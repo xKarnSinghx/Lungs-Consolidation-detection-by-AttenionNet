@@ -1,1 +1,1 @@
-# MinorProject
+# Lungs Consolidation Detection by AttenionNet

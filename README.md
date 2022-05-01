@@ -1,1 +1,1 @@
-# Lungs Consolidation Detection by AttenionNet
+# Lungs Consolidation detection by AttenionNet

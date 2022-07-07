@@ -4,4 +4,7 @@ Our Model detects whether the X-ray image is of  patient diagnosed by Pneumonia 
 
 We have analyzed our data on 2 different models one with Efficient Net and other by applying attention over Efficient Net. 
 
-#Dataset Description
+# Dataset Description
+Our dataset contains two classes namely Consolidation and Normal which in total contains 2043 images .
+Consolidation class has 1016 images.
+Normal class has total 1027 images.
